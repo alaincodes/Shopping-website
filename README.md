@@ -1,4 +1,4 @@
 # Shopping-website
-Shopping website, vanilla JS
+Shopping website tuto, CSS Grid, vanilla JS, Contentful, Netlify.
 
-Live demo https://alaincodes.github.io/Shopping-website/
+Live demo https://vanillashopping.netlify.com/
